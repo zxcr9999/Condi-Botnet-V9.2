@@ -32,4 +32,5 @@ What you use it for is up to you, we do not take any responsibility for this act
 # CONTACT:
 ```sh
 Telegram: @condi9999
+Store: https://condi.bgng.io/
 ```
