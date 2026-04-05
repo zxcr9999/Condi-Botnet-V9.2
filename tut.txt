@@ -115,4 +115,4 @@ screen ./admin
 
 - Change bot port and cnc port in assets/server.toml
 
-- If you need help, contact @az369za
+- If you need help, contact @condi9999
